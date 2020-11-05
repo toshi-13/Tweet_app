@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  min-height: 1vh;
+}
+.top-main{
+  position: absolute;
+  padding: 200px 0 100px;
+  top: 0;
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-position: center 50%;
+  background-size: cover;
+  background-image: url("/top_背景.jpeg");
+}
+
+.top-message h2{
+  font-size: 50px;
+}
